@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# SQL debugging files (temporary fixes)
+fix_rls_policies.sql
+fix_rls_simple.sql
+create_profile_manually.sql
